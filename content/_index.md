@@ -6,10 +6,13 @@ sections:
         url: /about
     component: intro.html
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      "_**We believe in our brand, image and reputation. Better yet, we believe
+      in our clients**_"
+
+
+      A Passion for Problem-Solving , To originate something extra ordinary, to
+      lead , to provide valuable and best products and smart services to the
+      customers by taking care of every single need
     section_id: intro
     title: Intro
     type: intro
