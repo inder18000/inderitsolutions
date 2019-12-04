@@ -15,7 +15,7 @@ sections:
     type: intro
 menu:
   main:
-    name: Inder IT Solutions
+    name: Home
     weight: 1
 layout: home
 ---
