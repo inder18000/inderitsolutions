@@ -1,13 +1,12 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: SUCCESS STARTS WITH Inder IT Solution
 date: '2019-04-09'
 thumb_img_path: /images/image1.jpg
 content_img_path: images/1.jpg
 excerpt: >-
-  SUCCESS STARTS WITH Inder IT Solution Consultants We are a Business Process
-  Outsourcing player, committed to deliver strategic goals and to help our
-  clients in enhancing, broadening, and deepening the relationship and to add
-  value to their portfolio.
+  We are a Business Process Outsourcing player, committed to deliver strategic
+  goals and to help our clients in enhancing, broadening, and deepening the
+  relationship and to add value to their portfolio.
 layout: post
 ---
 
