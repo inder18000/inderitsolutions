@@ -1,20 +1,37 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+img_path: /images/image4.jpg
 menu:
   main:
     name: About
     weight: 2
 layout: page
 ---
+Inderjeet kaur is a founder of Inder IT Solution.Entrepreneursplaysavitalroleincreatingnewbusinesseswhichhelpstogrowthe
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+societiesworldwide.Theydevelopanenterprisewiththepurposeofcreatingwealth
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+andprosperityofallinvestorscustomers,employeesandthemselves.Iwanttobecome
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+ITconsultantinthefutureasITconsultanthelptopeopledevelop,useandintegrateIT
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+systemsasabletounderstandcustomerrequirementsandbusinessobjectivesand
 
-*Thank You for reading!*
+alsoprovidestrategicadviceonusingtechnology.ITconsultantalsoprovideassistance
+
+withtechnicalissuesandmakethepeopleawareusesinnewandexcitingITsystems.
+
+Although,ITdegreecanbeacceptablemoreovergoodknowledgeoftechnicalskills
+
+suchascoding,enterpriselanguageslikeSAP,C,C++,JAVA,VISUALBASICandNET.
+
+Apartfrom thiseachteam membershouldhavegoodinterpersonalskill,abilityto
+
+analysetheproblem andprovidesolutiontoresolvetheissue.Abilitytoworkwith
+
+patience,co-operationskill,musthaveflexibleavailability,highlymotivatedwithinteam
+
+members,enjoyworkinginafastpacedenvironmentetc.
+
+_Thank You for reading!_
