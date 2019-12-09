@@ -2,7 +2,7 @@
 title: SUCCESS STARTS WITH Inder IT Solution
 date: '2019-04-09'
 thumb_img_path: /images/image1.jpg
-content_img_path: images/1.jpg
+content_img_path: /images/image1.jpg
 excerpt: >-
   We are a Business Process Outsourcing player, committed to deliver strategic
   goals and to help our clients in enhancing, broadening, and deepening the
