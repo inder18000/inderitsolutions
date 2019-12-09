@@ -9,27 +9,70 @@ excerpt: >-
   relationship and to add value to their portfolio.
 layout: post
 ---
+Corporate leaders love to talk about values. They put them on web sites, frame them, place them prominently in boardrooms and proudly espouse them in media interviews. The notion of values has become so pervasive that it’s hard to find any CEO who doesn’t tout their importance.
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
 
-## Long Distance Hiking
+Yet all too often, values are little more than window dressing. Key stakeholders, including employees, customers and partners are either completely unaware what the stated values are or don’t believe that they ring true. In some cases, corporate talk about values amounts to no more than a cruel joke.
 
-Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
 
-In the late 20th-century there has been a proliferation of official and unofficial long distance routes, which mean that hikers now are more likely to refer to using a long distance way (Britain), trail (USA), The Grande Randonnée (France), etc., than setting out on a walking tour. Early examples of long distance paths, include the Appalachian Trail in the USA and the Pennine Way in Britain. Pilgrimage routes are now treated, by some walkers, as long distance routes, and the route taken by the British National Trail the North Downs Way closely follows that of the Pilgrims' Way to Canterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
 
-## Equipment
+I doesn’t start out that way. It’s hard to imagine that even the most jaded executive team would formulate values they didn’t believe in. Rather, the problem is usually that values are easy to write down, but hard to live up to. So what begins with a sincere effort ends with a lofty checklist of anodyne virtues that don't reflect reality. Here’s how to create values that stick.
 
-The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
+## Values Cost Something
 
-> Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
+## 
 
-Proponents of ultralight backpacking argue that long lists of required items for multi-day hikes increases pack weight, and hence fatigue and the chance of injury. Instead, they recommend reducing pack weight, in order to make hiking long distances easier. Even the use of hiking boots on long-distances hikes is controversial among ultralight hikers, because of their weight.
+## In workshops with executive boards, I often ask what the company’s values are.  Invariably, I get a list of things like, “excellence,” “serving customers” and “innovation.”  Then I ask a follow up question, “What do these values cost you?”  Usually, all I get is blank stares.
 
-## Environmental Impact
+## 
 
-Natural environments are often fragile, and may be accidentally damaged, especially when a large number of hikers are involved. For example, years of gathering wood can strip an alpine area of valuable nutrients. and some species, such as martens or bighorn sheep, are very sensitive to the presence of humans, especially around mating season. Generally, protected areas such as parks have regulations in place to protect the environment, so as to minimize such impact. Such regulations include banning wood fires, restricting camping to established camp sites, disposing or packing out faecal matter, and imposing a quota on the number of hikers. Many hikers espouse the philosophy of Leave No Trace, following strict practices on dealing with food waste, food packaging, and other impact on the environment.
+## PROMOTED
 
-Human waste is often a major source of environmental impact from hiking, and can contaminate the watershed and make other hikers ill. 'Catholes' dug 10 to 25 cm (4 to 10 inches) deep, depending on local soil composition and covered after use, at least 60 m (200 feet) away from water sources and trails, are recommended to reduce the risk of bacterial contamination. [Source](https://en.wikipedia.org/wiki/Hiking)
+## UNICEF USA BrandVoice
+
+## \| Paid Program
+
+## Trick-Or-Treat For UNICEF Helps Create Lasting Change In Puerto Rico
+
+## Deloitte BrandVoice
+
+## \| Paid Program
+
+## The Future Of Legal: A New Model For Addressing Modern Business Challenges
+
+## Best Cyber Monday Deals On Xbox One X
+
+## 
+
+## Make no mistake, values cost something.  For example, both Nucor and Southwest show that they value employees by pledging never to do layoffs and both companies have paid a price for that policy.  In the decades they have been in operation, there have been times when there was a strong business case for letting some people go.  But they didn’t.
+
+## Values Have A Purpose
+
+## 
+
+## Many leaders who want to stress customer service like to cite the famous story about Nordstrom taking back a tire from a customer, even though the company doesn’t sell tires or anything like them.  The tale is supposed to support the notion that the company will do anything, no matter how seemingly outrageous, to serve its customers.
+
+## 
+
+## Yet the story blurs the lines between stupidity and virtue.  Someone asking for a refund for a product that they did not purchase from you is more likely to be a charlatan than a customer. Even worse, any firm following such a policy would have to lay the costs of fraudulent returns on real stakeholders such as customers, employees and shareholders, betraying their good faith.
+
+## 
+
+## And in fact, the real story is somewhat different than the one often told. The location had been a tire store which was recently converted to a Nordstrom store.  The manager, concluding that the customer was confused, but sincere, decided to allow the refund.  That’s not quite the same thing as taking back any random product.
+
+## 
+
+## Values need to have a purpose, which in this case was to always err on the side of living up to promises—even if they are merely perceived promises—to inspire absolute trust. Giving refunds for any claim, no matter how fraudulent or far-fetched, would serve no one but bankruptcy lawyers.
+
+## 
+
+## Values Lead To Action
+
+## 
+
+## At my former company, we valued a collaborative approach.  Many organizations do.  However, we took it a bit further and pledged to fire nasty people and it cost us.  By routinely parting ways with people who were abusive to junior staff and disrespectful toward their peers, we lost some very talented people.
+
+## 
+
+## Yet we gained a lot more. By following up our values with action, we created a much nicer place to work. That helped us reduce employee turnover and recruit more talented people. It also allowed us to demand more of our employees, such as instituting an “always help” rule in which nobody was allowed to say, “sorry, but that’s not my job.”
