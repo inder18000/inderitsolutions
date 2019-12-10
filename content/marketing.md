@@ -1,6 +1,6 @@
 ---
 title: Marketing
-subtitle: Marketing
+subtitle: ''
 img_path: /images/556.jpg
 menu:
   main:
