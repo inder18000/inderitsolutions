@@ -4,7 +4,7 @@ img_path: /images/601.jpg
 menu:
   main:
     name: Finance
-    weight: 5
+    weight: 6
 layout: page
 ---
 Yes, I wanted to start my business today and in the below table I estimate roughly how much money would I require to get this off the ground.
