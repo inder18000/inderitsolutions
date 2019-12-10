@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /about
+  - actions: []
     component: intro.html
     content: >-
       "_**We believe in our brand, image and reputation. Better yet, we believe
