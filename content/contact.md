@@ -4,7 +4,7 @@ img_path: images/contact.jpg
 menu:
   main:
     name: Contact
-    weight: 6
+    weight: 7
 layout: contact
 ---
 
