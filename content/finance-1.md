@@ -7,7 +7,7 @@ menu:
     weight: 6
 layout: page
 ---
-Yes, I wanted to start my business today and in the below table I estimate roughly how much money would I require to get this off the ground.
+To start my business today and in the below table I estimate roughly how much money would I require to get this off the ground.
 
 The office rent I will pay monthly. I will hire 5 employees. To maintain hardware and furniture I have good budget in case I face some problems. Than I have set good budget to purchase personal computers. So that good accessory can be successfully attract the people.
 
