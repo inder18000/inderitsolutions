@@ -7,34 +7,18 @@ Yes, I wanted to start my business today and in the below table I estimate rough
 
 The office rent I will pay monthly. I will hire 5 employees. To maintain hardware and furniture I have good budget in case I face some problems. Than I have set good budget to purchase personal computers. So that good accessory can be successfully attract the people.
 
-Office rent
+**Office rent**   $5,000
 
-$5,000
+**Employees Salary** $12,500
 
-Employees Salary
+**Utilities** $1,000
 
-$12,500
+**Hardware’s** $15,000
 
-Utilities
+**Furniture** $2,000
 
-$1,000
+**My Salary** $7,000
 
-Hardware’s
+**Internet connection** $15,000
 
-$15,000
-
-Furniture
-
-$2,000
-
-My Salary
-
-$7,000
-
-Internet connection
-
-$15,000
-
-Total expenses
-
-$57,500
+_**Total expenses $57,500**_
