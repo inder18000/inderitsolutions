@@ -1,6 +1,6 @@
 ---
 title: SUCCESS STARTS WITH Inder IT Solution
-date: '2019-04-09'
+date: 2019-10-12T04:00:00.000Z
 thumb_img_path: /images/image1.jpg
 content_img_path: /images/image1.jpg
 excerpt: >-
