@@ -4,7 +4,7 @@ subtitle: >-
   The main aim of the niche market is to survive among the competitions from
   other various higher companies. The quality of product is not dependent on the
   price elasticity but to attract the customers.
-img_path: /images/556.jpg
+img_path: /images/600.png
 menu:
   main:
     name: 'Strategies '
