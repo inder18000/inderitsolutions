@@ -3,7 +3,7 @@ title: Conserve What Our Children Deserve
 subtitle: >-
   “Progress is impossible without change, and those who cannot change their
   minds cannot change anything.” 
-date: 2019-12-11T05:00:00.000Z
+date: 2019-12-09T05:00:00.000Z
 thumb_img_path: /images/606.jpg
 content_img_path: /images/606.jpg
 excerpt: ''
