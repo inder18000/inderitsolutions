@@ -3,7 +3,9 @@ title: Vision
 subtitle: >-
   A Passion for Problem-Solving , To originate something extra ordinary, to lead
   , to provide valuable and best products and smart services to the customers by
-  taking care of every single need.
+  taking care of every single need.“A IT consultation company where people can
+  come with trust for wide range of services, best in problem solving, famous in
+  clients, highly profitable and fastest growing organization in the world.”
 img_path: /images/557.jpg
 menu:
   main:
