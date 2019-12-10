@@ -4,6 +4,7 @@ subtitle: >-
   A Passion for Problem-Solving , To originate something extra ordinary, to lead
   , to provide valuable and best products and smart services to the customers by
   taking care of every single need.
+img_path: /images/557.jpg
 menu:
   main:
     name: Vision
