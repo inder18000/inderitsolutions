@@ -1,5 +1,5 @@
 ---
-title: RISK
+title: Risk
 img_path: /images/555.jpg
 menu:
   main:
