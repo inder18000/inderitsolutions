@@ -1,0 +1,18 @@
+---
+title: Marketing
+subtitle: Marketing
+img_path: /images/556.jpg
+menu:
+  main:
+    weight: 5
+layout: page
+---
+First of all, I will identify the clients who really need or want which my company going to offer them. After that I also consider my previous customer and current customer so that it does not affect my store growth, I will try to impress and attract them so that they stay connect with me. I will also identify that my staff members provide good quality products to service so that customer would want to buy my products and services. I will also concentrate on market position what is current trend in the market as it is necessary for product sale and make a research. I will make the customer understand through the demographics , geographic, psychographics, behavioural and audience type survey so that I can able to target customer. This will based on age, gender, income, education and family situation.
+
+In modern era, technology helps to build relationships among the market. I will make a strategy Good technology and staff, so that customer could easily understand what my company is offering to them. There are numbers of ways such as attractive messages, short movies can also be helpful to spread your motive in the audience. I will also explain them what’s different about our company, its results and approach to the client and its services. Also explain them purpose by describing them the benefits you are going to provide to clients. I will attract the customer through flawless work and communicate effectively with our clients. There are numbers of ways such as newspaper, social media, in person which helps to advertise my company’s motive and services to the public. I will serve the customers in well mannered way so that they always believe in my company. The message should be clear which I want to convey them so that they easily understand.
+
+I will secure my website using encryption which will my website to prevent from hacking, data leakage. I will make sure try to update system with latest technology which will make my system more efficient. In process of serving I will try to give the best services to my customers in every aspect. So they don’t feel any hesitation to visit us again for any work. We will work with them on there problems to create the best available solutions for them. In terms of retaining our customers, we will try to give the best technical support to our customers. If they will face any problem in understanding or operating my software’s or websites we will assist them to use our product easily.
+
+We will also give special assistance to our loyal customers who will stay connected with my organization for long time.
+
+Today’s social media is a great platform to advertise products and to introduce services in the public. Through customer references and uniqueness of my services and products. Apart from this number of social sites such as goggle, Facebook, yahoo are some sites which helps to enhance company’s sales. Apart from this, makes relation with the audience. I will also give advertisement on TV’s because every age level people watch the TV’s. It helps to attract the viewers in add break, sometimes this method works more effectively as compare to in person, as we can spread our information on very big platform nationally and internationally. Which will works to gain popularity among the people. Apart from this feedback which we will receive from the customers will also help to identify our previous way and we will able to change the way of dealing with customer. These helps to improve our relation with customers and also we will give some interesting offer or discount to our connected customers so that they stay connect with us.
